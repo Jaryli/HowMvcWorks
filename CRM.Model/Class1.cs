@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CRM.Model
 {
-    public class Class1
+    public class Customer
     {
     }
 }
