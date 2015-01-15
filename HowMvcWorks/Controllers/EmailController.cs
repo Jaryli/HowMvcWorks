@@ -10,16 +10,16 @@ namespace HowMvcWorks.Controllers
     {
         //
         // GET: /Email/
-        log4net.ILog log = log4net.LogManager.GetLogger("logerror");
-        log4net.ILog log1 = log4net.LogManager.GetLogger("logdebug");
-        log4net.ILog log2 = log4net.LogManager.GetLogger("loginfo");
+        //log4net.ILog log = log4net.LogManager.GetLogger("logerror");
+        //log4net.ILog log1 = log4net.LogManager.GetLogger("logdebug");
+        //log4net.ILog log2 = log4net.LogManager.GetLogger("loginfo");
         
         public ActionResult Index()
         {
-            log1.Debug("我是调式信息");
-            log.Error("需要发邮件吗？");//配置发邮件
-            log2.Info("我是调式信息");
-            log2.Info("我是调式信息");
+            //log1.Debug("我是调式信息");
+            //log.Error("需要发邮件吗？");//配置发邮件
+            //log2.Info("我是调式信息");
+            //log2.Info("我是调式信息");
             return View();
         }
 
