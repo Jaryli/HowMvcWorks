@@ -17,7 +17,5 @@ namespace CRM.Model
         public string Town { get; set; }
         public string Street { get; set; }
         public string DoorNumber { get; set; }
-        [ForeignKey("CustomerId")]
-        public Customer CustomerInfo { get; set; }
     }
 }

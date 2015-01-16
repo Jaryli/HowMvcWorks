@@ -11,6 +11,9 @@ namespace CRM.Model
         [Key]
         public int CustomerId { get; set; }
         public string CustomerName { get; set; }
-        public virtual CustomerAddress AddressInfo { get; set; }
+        public string Birthday { get; set; }
+        public DateTime JoinDate { get; set; }
+        [MaxLength(50)]
+        public string Remark { get; set; }
     }
 }

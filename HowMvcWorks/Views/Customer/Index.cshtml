@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@model IEnumerable<CRM.Model.Customer> 
+<h2>Index</h2>
+@foreach (var item in Model)
+{
+  <p>@item.CustomerName</p>  
+}
