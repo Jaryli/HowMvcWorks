@@ -15,5 +15,6 @@ namespace CRM.Dao
         }
         public DbSet<CRM.Model.Customer> CustomerSet { get; set; }
         public DbSet<CRM.Model.CustomerAddress> CustomerAddressSet { get; set; }
+        public DbSet<CRM.Model.OrderItem> OrderItemSet { get; set; }
     }
 }

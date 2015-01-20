@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="ICustomer.cs" />
     <Compile Include="ICustomerAddress.cs" />
+    <Compile Include="IBaseDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

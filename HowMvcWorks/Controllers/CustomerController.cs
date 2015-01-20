@@ -7,18 +7,22 @@ namespace HowMvcWorks.Controllers
 {
     public class CustomerController : Controller
     {
+        private CRM.IDao.IRepository _order;
+        public CustomerController(CRM.IDao.IRepository order)
+        {
+            this._order = order;
+        }
         //
         // GET: /Customer/
-        private CRM.Bussiness.CustomerBll cbll = new CRM.Bussiness.CustomerBll();
         public ActionResult Index()
         {
-            CRM.Model.Customer cs = new CRM.Model.Customer();
-            cs.CustomerName = "李四1231";
-            cs.Birthday = "98-09";
-            cs.JoinDate = System.DateTime.Now;
-            cs.Remark = "我是备注123123";
-            cbll.Add(cs);
-            List<CRM.Model.Customer> list = cbll.getAll();
+            CRM.Model.OrderItem item = new CRM.Model.OrderItem();
+            item.OrderMoney = 960;
+            item.OrderNum = 100;
+            item.OrderRemark = "dddd";
+            item.OrderTime = System.DateTime.Now;
+            _order.Add(item);
+            var list = _order.GetList();
             return View(list);
         }
 

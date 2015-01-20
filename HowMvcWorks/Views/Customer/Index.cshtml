@@ -2,9 +2,9 @@
 @{
     ViewBag.Title = "Index";
 }
-@model IEnumerable<CRM.Model.Customer> 
+@model IEnumerable<CRM.Model.OrderItem> 
 <h2>Index</h2>
 @foreach (var item in Model)
 {
-  <p>@item.CustomerName</p>  
+  <p>@item.OrderMoney</p>  
 }
