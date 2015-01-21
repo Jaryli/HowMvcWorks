@@ -1,10 +1,71 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Index";
 }
-@model IEnumerable<CRM.Model.OrderItem> 
-<h2>Index</h2>
-@foreach (var item in Model)
+@model PagedList.IPagedList<CRM.Model.OrderItem>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+<br />
+@using (Html.BeginForm("Index", "Customer", FormMethod.Post))
 {
-  <p>@item.OrderMoney</p>  
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "form-control", @Style = "display:inline" })
+        @Html.Submit("Submit")
+    </p>
 }
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("First Name", "Index", new { sortOrder = ViewBag.FirstNameSortParm })
+        </th>
+        <th>
+            @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.LastNameSortParm })
+        </th>
+        <th>OrderNum</th>
+        <th>OrderRemark</th>
+    </tr>
+    @{
+        int index = 0;
+        foreach (var item in Model)
+        {
+            index++;
+            if (index % 2 == 0)
+            {
+        <tr class="active">
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderMoney)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderNum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderRemark)
+            </td>
+        </tr>
+            }
+            else
+            {
+        <tr class="warning">
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderMoney)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderNum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderRemark)
+            </td>
+        </tr>
+            }
+        }
+    }
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

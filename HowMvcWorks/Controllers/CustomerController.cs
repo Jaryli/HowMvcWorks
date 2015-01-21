@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using PagedList;
 namespace HowMvcWorks.Controllers
 {
     public class CustomerController : Controller
@@ -14,18 +15,88 @@ namespace HowMvcWorks.Controllers
         }
         //
         // GET: /Customer/
-        public ActionResult Index()
+        public ViewResult Index(string sortOrder, string searchString, string currentFilter, int? page)
         {
-            CRM.Model.OrderItem item = new CRM.Model.OrderItem();
-            item.OrderMoney = 960;
-            item.OrderNum = 100;
-            item.OrderRemark = "dddd";
-            item.OrderTime = System.DateTime.Now;
-            _order.Add(item);
-            var list = _order.GetList();
-            return View(list);
+            ViewBag.CurrentSort = sortOrder;
+            ViewBag.FirstNameSortParm = String.IsNullOrEmpty(sortOrder) ? "first_desc" : "";
+            ViewBag.LastNameSortParm = sortOrder == "last" ? "last_desc" : "last";
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+            ViewBag.CurrentFilter = searchString;
+            var db = _order.GetList();
+            var workers = from w in db
+                          select w;
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                workers = workers.Where(w => w.OrderRemark.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "first_desc":
+                    workers = workers.OrderByDescending(w => w.OrderMoney);
+                    break;
+                case "last_desc":
+                    workers = workers.OrderByDescending(w => w.OrderNum);
+                    break;
+                case "last":
+                    workers = workers.OrderBy(w => w.OrderMoney);
+                    break;
+                default:
+                    workers = workers.OrderBy(w => w.OrderNum);
+                    break;
+            }
+            int pageSize = 3;//可定制显示条数
+            int pageNumber = (page ?? 1);
+            return View(workers.ToPagedList(pageNumber, pageSize));
         }
-
+        [HttpPost]  //post表单，进行多条件查询。从而得到干净的Url
+        public ViewResult Index(string sortOrder, string searchString, string currentFilter, int? page,FormCollection fc)
+        {
+            string fcc = fc["SearchString"].ToString();//TODO:Exception Handle
+            ViewBag.CurrentSort = sortOrder;
+            ViewBag.FirstNameSortParm = String.IsNullOrEmpty(sortOrder) ? "first_desc" : "";
+            ViewBag.LastNameSortParm = sortOrder == "last" ? "last_desc" : "last";
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = fcc;
+            }
+            ViewBag.CurrentFilter = searchString;
+            var db = _order.GetList();
+            var workers = from w in db
+                          select w;
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                workers = workers.Where(w => w.OrderRemark.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "first_desc":
+                    workers = workers.OrderByDescending(w => w.OrderMoney);
+                    break;
+                case "last_desc":
+                    workers = workers.OrderByDescending(w => w.OrderNum);
+                    break;
+                case "last":
+                    workers = workers.OrderBy(w => w.OrderMoney);
+                    break;
+                default:
+                    workers = workers.OrderBy(w => w.OrderNum);
+                    break;
+            }
+            int pageSize = 3;
+            int pageNumber = (page ?? 1);
+            return View(workers.ToPagedList(pageNumber, pageSize));
+        }
         //
         // GET: /Customer/Details/5
 
@@ -37,7 +108,7 @@ namespace HowMvcWorks.Controllers
         //
         // GET: /Customer/Create
 
-        public ActionResult Create()
+        public ActionResult Add()
         {
             return View();
         }
@@ -46,12 +117,11 @@ namespace HowMvcWorks.Controllers
         // POST: /Customer/Create
 
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Add(FormCollection collection)
         {
             try
             {
                 // TODO: Add insert logic here
-
                 return RedirectToAction("Index");
             }
             catch

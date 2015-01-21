@@ -10,5 +10,6 @@ namespace CRM.IDao
         bool Add(CRM.Model.OrderItem item);
         bool Update(CRM.Model.OrderItem item);
         List<CRM.Model.OrderItem> GetList();
+
     }
 }
