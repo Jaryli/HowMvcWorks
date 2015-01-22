@@ -18,7 +18,7 @@ namespace HowMvcWorks
     {
         protected void Application_Start()
         {
-            //log4net.Config.XmlConfigurator.Configure();
+            log4net.Config.XmlConfigurator.Configure();
             //Autofac初始化过程
             AutofacManager();
             AreaRegistration.RegisterAllAreas();

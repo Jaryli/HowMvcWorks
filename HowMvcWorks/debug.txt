@@ -4,3 +4,99 @@
 
 调试时间：2015-01-13 15:33:43,234
 调试内容：我是调式信息
+
+ 
+记录时间：2015-01-22 16:48:36,623 
+线程ID:[8] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-01-22 16:48:28
+            结束时间：2015-01-22 16:48:36
+            总 时 间：8.0654702秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-22 16:48:39,621 
+线程ID:[8] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-01-22 16:48:36
+            结束时间：2015-01-22 16:48:39
+            总 时 间：2.9831706秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-22 16:53:51,011 
+线程ID:[17] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-01-22 16:53:47
+            结束时间：2015-01-22 16:53:51
+            总 时 间：3.1662521秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-22 16:53:53,623 
+线程ID:[17] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-01-22 16:53:51
+            结束时间：2015-01-22 16:53:53
+            总 时 间：2.6071491秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-22 16:54:00,188 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Add
+            开始时间：2015-01-22 16:54:00
+            结束时间：2015-01-22 16:54:00
+            总 时 间：0.0010772秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-01-22 16:54:00,366 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Add
+            开始时间：2015-01-22 16:54:00
+            结束时间：2015-01-22 16:54:00
+            总 时 间：0.1780102秒
+            Form表单数据：
+            URL参数：
+                    
+ 

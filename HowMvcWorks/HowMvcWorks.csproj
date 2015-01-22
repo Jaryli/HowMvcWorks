@@ -52,6 +52,9 @@
     <Reference Include="EntityFramework.SqlServer">
       <HintPath>..\packages\EntityFramework.6.1.2\lib\net40\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\packages\log4net.2.0.3\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="PagedList">
       <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
@@ -284,6 +287,10 @@
     <ProjectReference Include="..\CRM.Model\CRM.Model.csproj">
       <Project>{18dd37e5-4ce6-4120-a100-29637f083c1a}</Project>
       <Name>CRM.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CRM.NLog\CRM.NLog.csproj">
+      <Project>{f5d8cec4-e0af-452d-895e-03593fc82ded}</Project>
+      <Name>CRM.NLog</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

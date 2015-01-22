@@ -8,6 +8,7 @@ namespace HowMvcWorks
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
+            filters.Add(new CRM.NLog.StatisticsTrackerAttribute());
         }
     }
 }
