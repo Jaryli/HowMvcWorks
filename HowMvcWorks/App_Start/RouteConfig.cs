@@ -18,6 +18,12 @@ namespace HowMvcWorks
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Customer", action = "Index", id = UrlParameter.Optional }
             );
+            //demo
+            routes.MapRoute(
+                name: "Demo",
+                url: "{controller}/{action}/{id}",
+                defaults: new { controller = "Order", action = "Index", id = UrlParameter.Optional }
+           );
         }
     }
 }
