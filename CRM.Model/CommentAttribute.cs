@@ -5,6 +5,9 @@ using System.Text;
 
 namespace CRM.Model
 {
+    /// <summary>
+    /// 自定义Attribute
+    /// </summary>
     public class CommentAttribute:Attribute
     {
         public string  CollumnName { get; set; }

@@ -5,6 +5,9 @@ using System.Text;
 using System.Reflection;
 namespace CRM.Model
 {
+    /// <summary>
+    /// 构造导出列
+    /// </summary>
     public class CollumnInfo
     {
         public string fieldName { get; set; }

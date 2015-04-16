@@ -103,6 +103,10 @@ namespace HowMvcWorks.Controllers
             }
         }
 
+        /// <summary>
+        /// 获取Object的所有标记Comment的列
+        /// </summary>
+        /// <returns></returns>
         public ActionResult getColumnList()
         {
             var res=new JsonResult();
