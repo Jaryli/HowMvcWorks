@@ -1,5 +1,35 @@
-﻿@{
+﻿@model List<CRM.Model.CollumnInfo>
+@{
     ViewBag.Title = "Index";
 }
+@{
+    Layout = "~/Views/Shared/_EasyUILayout.cshtml";
+}
+<h2>我是第二个Order界面！</h2>
+<ul>
+    @{
+        foreach (var item in Model)
+        {
+        <li>@item.fieldName:@item.ColumnName</li>
+        }
+   
+    }
+    <br />
+    选择导出列:
+    <select id="columns" class="easyui-combogrid" style="width: 150px;"
+        data-options="
+					idField: 'fieldName',
+            		textField: 'ColumnName',
+            		multiple:true,
+            		editable:false,
+					url:'getColumnList',
+					columns:[[
+		                {field:'ck',checkbox:true},
+		                {field:'ColumnName',title:'列名',width:120},
+		            ]]">
+    </select>
+    <a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-help'"
+        id="btn_exportXls">导出Excel</a>
+</ul>
 
-<h2>我是Order界面！</h2>
+

@@ -13,7 +13,8 @@ namespace HowMvcWorks.Controllers
 
         public ActionResult Index()
         {
-            return View();
+            List<CRM.Model.CollumnInfo> list = CRM.Model.CollumnInfo.getColumnList(new CRM.Model.OrderItem());
+            return View(list);
         }
 
         //
@@ -100,6 +101,14 @@ namespace HowMvcWorks.Controllers
             {
                 return View();
             }
+        }
+
+        public ActionResult getColumnList()
+        {
+            var res=new JsonResult();
+            res.Data = CRM.Model.CollumnInfo.getColumnList(new CRM.Model.OrderItem());
+            res.JsonRequestBehavior = JsonRequestBehavior.AllowGet;
+            return res;
         }
     }
 }

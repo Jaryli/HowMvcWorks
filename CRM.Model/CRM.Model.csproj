@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CollumnInfo.cs" />
+    <Compile Include="CommentAttribute.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="CustomerAddress.cs" />
     <Compile Include="OrderItem.cs" />

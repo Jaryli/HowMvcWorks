@@ -1,0 +1,43 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/easyui142/themes/default/easyui.css" />
+    <link rel="stylesheet" type="text/css" href="~/easyui142/themes/icon.css" />
+    <script src="~/easyui142/jquery.min.js"></script>
+    <script type="text/javascript" src="~/easyui142/jquery.easyui.min.js"></script>
+    <script type="text/javascript" src="~/easyui142/locale/easyui-lang-zh_CN.js"></script>
+    <style type="text/css">
+        body {
+            font-family:Consolas;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container-narrow">
+        <div class="masthead">
+            <ul class="nav nav-pills pull-right">
+            </ul>
+            <h3>CRM MyLayout</h3>
+        </div>
+        <div id="body" class="container">
+            @RenderSection("featured", required: false)
+            <section>
+                @RenderBody()
+            </section>
+        </div>
+        <hr />
+        <div id="footer">
+            <div class="container">
+                <p class="muted credit">&copy; @DateTime.Now.Year - Design and devloped by <a href="http://www.jaryli.com">jaryli11111</a>.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

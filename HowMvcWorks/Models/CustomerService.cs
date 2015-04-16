@@ -6,7 +6,7 @@ using System.Web;
 namespace HowMvcWorks.Models
 {
     public class CustomerService : ICustomer
-    {
+    {    
         public List<CRM.Model.Customer> GetAll()
         {
             return new List<CRM.Model.Customer>() {

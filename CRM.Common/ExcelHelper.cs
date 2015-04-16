@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using NPOI.HSSF;
 namespace CRM.Common
 {
-    class ExcelHelper
+    public class ExcelHelper
     {
+
     }
 }
