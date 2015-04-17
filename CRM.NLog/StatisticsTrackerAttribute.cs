@@ -8,6 +8,7 @@ using System.Web.Mvc;
 namespace CRM.NLog
 {
     /// <summary>
+    /// 监控Controller的行为并捕捉异常信息。
     /// 此类引用自：http://www.cnblogs.com/lc-chenlong/p/4228639.html 特此感谢！         
     /// </summary>
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = false)]

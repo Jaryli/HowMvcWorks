@@ -1,13 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using NPOI.HSSF.UserModel;
 
 namespace HowMvcWorks.Controllers
 {
     public class OrderController : Controller
     {
+
+        private CRM.IDao.IRepository _order;
+        public OrderController(CRM.IDao.IRepository order)
+        {
+            this._order = order;
+        }
         //
         // GET: /Order/
 
@@ -109,10 +117,30 @@ namespace HowMvcWorks.Controllers
         /// <returns></returns>
         public ActionResult getColumnList()
         {
-            var res=new JsonResult();
+            var res = new JsonResult();
             res.Data = CRM.Model.CollumnInfo.getColumnList(new CRM.Model.OrderItem());
             res.JsonRequestBehavior = JsonRequestBehavior.AllowGet;
             return res;
+        }
+
+        /// <summary>
+        /// 导出Excel 
+        /// TODO：Post方式目前还存在问题。
+        /// </summary>
+        /// <returns></returns>
+        public ActionResult ExportXls()
+        {
+            string columnCodes = System.Web.HttpContext.Current.Request.Form["columnCodes"];
+            string columnNames = System.Web.HttpContext.Current.Request.Form["columnNames"];
+            List<CRM.Model.OrderItem> items = _order.GetList();
+            System.IO.MemoryStream ms = new System.IO.MemoryStream();
+            if (!string.IsNullOrEmpty(columnNames))
+            {
+                HSSFWorkbook workbook = CRM.Common.ExcelHelper.generateHSSF<CRM.Model.OrderItem>("导出事例", items, columnNames.Split(','), columnCodes.Split(','));
+                workbook.Write(ms);
+                ms.Seek(0, SeekOrigin.Begin);
+            }
+            return File(ms, "application/vnd.ms-excel", "导出事例.xls");
         }
     }
 }

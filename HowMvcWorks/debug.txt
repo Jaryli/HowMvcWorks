@@ -8580,3 +8580,3923 @@
             URL参数：
                     
  
+
+ 
+记录时间：2015-04-17 10:34:53,477 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 10:34:45
+            结束时间：2015-04-17 10:34:53
+            总 时 间：8.3335194秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:34:57,842 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 10:34:53
+            结束时间：2015-04-17 10:34:57
+            总 时 间：4.3332478秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:46:26,356 
+线程ID:[15] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 10:46:26
+            结束时间：2015-04-17 10:46:26
+            总 时 间：0.0050501秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:46:26,384 
+线程ID:[15] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 10:46:26
+            结束时间：2015-04-17 10:46:26
+            总 时 间：0.0280016秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:48:41,472 
+线程ID:[8] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 10:48:41
+            结束时间：2015-04-17 10:48:41
+            总 时 间：0.0020783秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:48:41,486 
+线程ID:[8] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 10:48:41
+            结束时间：2015-04-17 10:48:41
+            总 时 间：0.0140008秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:53:43,206 
+线程ID:[29] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 10:53:41
+            结束时间：2015-04-17 10:53:43
+            总 时 间：2.0321363秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:53:46,861 
+线程ID:[29] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 10:53:43
+            结束时间：2015-04-17 10:53:46
+            总 时 间：3.6492088秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:54:41,437 
+线程ID:[29] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 10:54:41
+            结束时间：2015-04-17 10:54:41
+            总 时 间：0.0010671秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:54:42,389 
+线程ID:[29] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 10:54:41
+            结束时间：2015-04-17 10:54:42
+            总 时 间：0.9510544秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:56:42,658 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 10:56:42
+            结束时间：2015-04-17 10:56:42
+            总 时 间：0.0020006秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:56:42,675 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 10:56:42
+            结束时间：2015-04-17 10:56:42
+            总 时 间：0.0170009秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:57:12,424 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 10:57:12
+            结束时间：2015-04-17 10:57:12
+            总 时 间：3E-06秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:57:12,429 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 10:57:12
+            结束时间：2015-04-17 10:57:12
+            总 时 间：0.0050003秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:57:13,255 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 10:57:13
+            结束时间：2015-04-17 10:57:13
+            总 时 间：0.0010506秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:57:13,384 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 10:57:13
+            结束时间：2015-04-17 10:57:13
+            总 时 间：0.1290074秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:57:18,676 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:57:18
+            结束时间：2015-04-17 10:57:18
+            总 时 间：0.1320607秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:57:30,147 
+线程ID:[30] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:57:30
+            结束时间：2015-04-17 10:57:30
+            总 时 间：0.0290168秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:58:03,338 
+线程ID:[14] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 10:58:03
+            结束时间：2015-04-17 10:58:03
+            总 时 间：0.2200151秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:58:03,339 
+线程ID:[14] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 10:58:03
+            结束时间：2015-04-17 10:58:03
+            总 时 间：0.001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:58:03,453 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 10:58:03
+            结束时间：2015-04-17 10:58:03
+            总 时 间：0.0010218秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:58:03,453 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 10:58:03
+            结束时间：2015-04-17 10:58:03
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:58:06,603 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:58:06
+            结束时间：2015-04-17 10:58:06
+            总 时 间：0.0170019秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:48,334 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:59:48
+            结束时间：2015-04-17 10:59:48
+            总 时 间：0.0050204秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:48,387 
+线程ID:[30] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 10:59:48
+            结束时间：2015-04-17 10:59:48
+            总 时 间：0.0020236秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:48,388 
+线程ID:[30] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 10:59:48
+            结束时间：2015-04-17 10:59:48
+            总 时 间：0.0010001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:50,425 
+线程ID:[27] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 10:59:50
+            结束时间：2015-04-17 10:59:50
+            总 时 间：0.0010402秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:51,833 
+线程ID:[27] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 10:59:50
+            结束时间：2015-04-17 10:59:51
+            总 时 间：1.4080805秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:51,942 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 10:59:51
+            结束时间：2015-04-17 10:59:51
+            总 时 间：2.7E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:51,942 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 10:59:51
+            结束时间：2015-04-17 10:59:51
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:55,583 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:59:55
+            结束时间：2015-04-17 10:59:55
+            总 时 间：3.52E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:57,991 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:59:57
+            结束时间：2015-04-17 10:59:57
+            总 时 间：7.3E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:58,968 
+线程ID:[14] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:59:58
+            结束时间：2015-04-17 10:59:58
+            总 时 间：0.0010288秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 10:59:59,736 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 10:59:59
+            结束时间：2015-04-17 10:59:59
+            总 时 间：7.27E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:00:00,593 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:00:00
+            结束时间：2015-04-17 11:00:00
+            总 时 间：0.0010218秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:00:01,645 
+线程ID:[29] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:00:01
+            结束时间：2015-04-17 11:00:01
+            总 时 间：8.19E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:00:02,767 
+线程ID:[16] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:00:02
+            结束时间：2015-04-17 11:00:02
+            总 时 间：4.61E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:30,338 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:06:30
+            结束时间：2015-04-17 11:06:30
+            总 时 间：0.0040137秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:32,116 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:06:30
+            结束时间：2015-04-17 11:06:32
+            总 时 间：1.7711013秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:32,237 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:06:32
+            结束时间：2015-04-17 11:06:32
+            总 时 间：0.0010225秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:32,237 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:06:32
+            结束时间：2015-04-17 11:06:32
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:36,051 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:06:36
+            结束时间：2015-04-17 11:06:36
+            总 时 间：0.0040406秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:38,790 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:06:38
+            结束时间：2015-04-17 11:06:38
+            总 时 间：9.74E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:39,652 
+线程ID:[29] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:06:39
+            结束时间：2015-04-17 11:06:39
+            总 时 间：4.67E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:46,966 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:06:46
+            结束时间：2015-04-17 11:06:46
+            总 时 间：6.49E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:47,910 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:06:47
+            结束时间：2015-04-17 11:06:47
+            总 时 间：0.001019秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:48,178 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:06:48
+            结束时间：2015-04-17 11:06:48
+            总 时 间：3.43E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:06:48,358 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:06:48
+            结束时间：2015-04-17 11:06:48
+            总 时 间：4.46E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:07:54,274 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:07:54
+            结束时间：2015-04-17 11:07:54
+            总 时 间：0.0040145秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:07:55,487 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:07:54
+            结束时间：2015-04-17 11:07:55
+            总 时 间：1.2070691秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:07:55,622 
+线程ID:[16] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:07:55
+            结束时间：2015-04-17 11:07:55
+            总 时 间：9.18E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:07:55,622 
+线程ID:[16] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:07:55
+            结束时间：2015-04-17 11:07:55
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:07:58,763 
+线程ID:[29] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:07:58
+            结束时间：2015-04-17 11:07:58
+            总 时 间：0.0050715秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:08:04,443 
+线程ID:[16] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:08:04
+            结束时间：2015-04-17 11:08:04
+            总 时 间：9.64E-05秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:08:45,467 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:08:45
+            结束时间：2015-04-17 11:08:45
+            总 时 间：4.28E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:08:45,966 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:08:45
+            结束时间：2015-04-17 11:08:45
+            总 时 间：0.4980285秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:08:46,101 
+线程ID:[16] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:08:46
+            结束时间：2015-04-17 11:08:46
+            总 时 间：7.91E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:08:46,101 
+线程ID:[16] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:08:46
+            结束时间：2015-04-17 11:08:46
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:08,408 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:09:08
+            结束时间：2015-04-17 11:09:08
+            总 时 间：0.001055秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:08,978 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:09:08
+            结束时间：2015-04-17 11:09:08
+            总 时 间：0.5700326秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:09,067 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:09:09
+            结束时间：2015-04-17 11:09:09
+            总 时 间：9.27E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:09,067 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:09:09
+            结束时间：2015-04-17 11:09:09
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:17,773 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:09:17
+            结束时间：2015-04-17 11:09:17
+            总 时 间：9.07E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:17,774 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:09:17
+            结束时间：2015-04-17 11:09:17
+            总 时 间：0.001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:37,178 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:09:37
+            结束时间：2015-04-17 11:09:37
+            总 时 间：5E-07秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:37,180 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:09:37
+            结束时间：2015-04-17 11:09:37
+            总 时 间：0.0020002秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:37,268 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:09:37
+            结束时间：2015-04-17 11:09:37
+            总 时 间：5.7E-06秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:37,268 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:09:37
+            结束时间：2015-04-17 11:09:37
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:39,386 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:09:39
+            结束时间：2015-04-17 11:09:39
+            总 时 间：2.68E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:39,387 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:09:39
+            结束时间：2015-04-17 11:09:39
+            总 时 间：0.0010001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:39,503 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:09:39
+            结束时间：2015-04-17 11:09:39
+            总 时 间：3.35E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:39,503 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:09:39
+            结束时间：2015-04-17 11:09:39
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:54,281 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:09:54
+            结束时间：2015-04-17 11:09:54
+            总 时 间：0.0040785秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:55,911 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:09:54
+            结束时间：2015-04-17 11:09:55
+            总 时 间：1.6240929秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:56,038 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:09:56
+            结束时间：2015-04-17 11:09:56
+            总 时 间：7.93E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:56,039 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:09:56
+            结束时间：2015-04-17 11:09:56
+            总 时 间：0.001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:09:58,773 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:09:58
+            结束时间：2015-04-17 11:09:58
+            总 时 间：0.0030357秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:34,007 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:12:31
+            结束时间：2015-04-17 11:12:34
+            总 时 间：2.3822144秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:46,869 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:12:46
+            结束时间：2015-04-17 11:12:46
+            总 时 间：0.0020502秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:48,845 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:12:46
+            结束时间：2015-04-17 11:12:48
+            总 时 间：1.975113秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:48,933 
+线程ID:[14] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:12:48
+            结束时间：2015-04-17 11:12:48
+            总 时 间：0.0010683秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:48,933 
+线程ID:[14] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:12:48
+            结束时间：2015-04-17 11:12:48
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:52,932 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:12:52
+            结束时间：2015-04-17 11:12:52
+            总 时 间：0.193097秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:56,418 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:12:56
+            结束时间：2015-04-17 11:12:56
+            总 时 间：0.0020964秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:12:57,411 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:12:57
+            结束时间：2015-04-17 11:12:57
+            总 时 间：0.0020532秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:03,315 
+线程ID:[33] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:13:03
+            结束时间：2015-04-17 11:13:03
+            总 时 间：0.0120909秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:04,291 
+线程ID:[14] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:13:04
+            结束时间：2015-04-17 11:13:04
+            总 时 间：0.0020468秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:08,108 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:13:08
+            结束时间：2015-04-17 11:13:08
+            总 时 间：0.002065秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:20,815 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 11:13:20
+            结束时间：2015-04-17 11:13:20
+            总 时 间：0.2190918秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:21,804 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 11:13:20
+            结束时间：2015-04-17 11:13:21
+            总 时 间：0.9890566秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:25,577 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:13:25
+            结束时间：2015-04-17 11:13:25
+            总 时 间：6.42E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:25,578 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:13:25
+            结束时间：2015-04-17 11:13:25
+            总 时 间：0.0010001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:25,743 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:13:25
+            结束时间：2015-04-17 11:13:25
+            总 时 间：7.37E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:13:25,743 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:13:25
+            结束时间：2015-04-17 11:13:25
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:26,282 
+线程ID:[23] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:13:29
+            结束时间：2015-04-17 11:14:26
+            总 时 间：56.9523363秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:26,284 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:14:26
+            结束时间：2015-04-17 11:14:26
+            总 时 间：3.65E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:26,287 
+线程ID:[33] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:14:26
+            结束时间：2015-04-17 11:14:26
+            总 时 间：0.0030367秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:26,288 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:14:26
+            结束时间：2015-04-17 11:14:26
+            总 时 间：0.0040367秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:26,289 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:14:26
+            结束时间：2015-04-17 11:14:26
+            总 时 间：0.0050368秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:26,289 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:14:26
+            结束时间：2015-04-17 11:14:26
+            总 时 间：0.0050003秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:29,096 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 11:14:29
+            结束时间：2015-04-17 11:14:29
+            总 时 间：0.0020973秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:29,109 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 11:14:29
+            结束时间：2015-04-17 11:14:29
+            总 时 间：0.0130008秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:33,396 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:14:33
+            结束时间：2015-04-17 11:14:33
+            总 时 间：4.32E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:33,398 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:14:33
+            结束时间：2015-04-17 11:14:33
+            总 时 间：0.0020001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:33,564 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:14:33
+            结束时间：2015-04-17 11:14:33
+            总 时 间：5.28E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:14:33,564 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:14:33
+            结束时间：2015-04-17 11:14:33
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:15:13,019 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:14:35
+            结束时间：2015-04-17 11:15:13
+            总 时 间：37.4742096秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:15:26,450 
+线程ID:[15] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:15:26
+            结束时间：2015-04-17 11:15:26
+            总 时 间：7.78E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:15:26,451 
+线程ID:[15] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:15:26
+            结束时间：2015-04-17 11:15:26
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:16:18,380 
+线程ID:[40] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:16:18
+            结束时间：2015-04-17 11:16:18
+            总 时 间：0.0040477秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:16:20,009 
+线程ID:[40] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:16:18
+            结束时间：2015-04-17 11:16:20
+            总 时 间：1.6230929秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:16:20,132 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:16:20
+            结束时间：2015-04-17 11:16:20
+            总 时 间：0.0010482秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:16:20,132 
+线程ID:[36] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:16:20
+            结束时间：2015-04-17 11:16:20
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:16:24,202 
+线程ID:[41] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:16:22
+            结束时间：2015-04-17 11:16:24
+            总 时 间：1.904181秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:18:07,768 
+线程ID:[39] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 11:18:05
+            结束时间：2015-04-17 11:18:07
+            总 时 间：2.0102043秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:18:09,483 
+线程ID:[39] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 11:18:07
+            结束时间：2015-04-17 11:18:09
+            总 时 间：1.7090977秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:18:20,498 
+线程ID:[33] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:18:20
+            结束时间：2015-04-17 11:18:20
+            总 时 间：0.0020327秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:18:21,532 
+线程ID:[33] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:18:20
+            结束时间：2015-04-17 11:18:21
+            总 时 间：1.0340592秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:32,525 
+线程ID:[41] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:18:24
+            结束时间：2015-04-17 11:21:32
+            总 时 间：188.130816秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:32,525 
+线程ID:[40] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:21:32
+            结束时间：2015-04-17 11:21:32
+            总 时 间：0.043016秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:53,530 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 11:21:53
+            结束时间：2015-04-17 11:21:53
+            总 时 间：0.0020175秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:53,544 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 11:21:53
+            结束时间：2015-04-17 11:21:53
+            总 时 间：0.0140008秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:57,495 
+线程ID:[40] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:21:57
+            结束时间：2015-04-17 11:21:57
+            总 时 间：4.43E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:57,498 
+线程ID:[40] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:21:57
+            结束时间：2015-04-17 11:21:57
+            总 时 间：0.0030001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:57,669 
+线程ID:[42] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 11:21:57
+            结束时间：2015-04-17 11:21:57
+            总 时 间：0.0010542秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:57,669 
+线程ID:[42] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 11:21:57
+            结束时间：2015-04-17 11:21:57
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:57,880 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 11:21:57
+            结束时间：2015-04-17 11:21:57
+            总 时 间：6.63E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:21:57,881 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 11:21:57
+            结束时间：2015-04-17 11:21:57
+            总 时 间：0.001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 11:22:18,007 
+线程ID:[42] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 11:21:59
+            结束时间：2015-04-17 11:22:18
+            总 时 间：18.4041175秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:48:39,217 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 13:48:35
+            结束时间：2015-04-17 13:48:39
+            总 时 间：3.7502738秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:48:41,300 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 13:48:39
+            结束时间：2015-04-17 13:48:41
+            总 时 间：2.0591177秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:48:57,801 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 13:48:57
+            结束时间：2015-04-17 13:48:57
+            总 时 间：0.0020369秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:48:58,796 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 13:48:57
+            结束时间：2015-04-17 13:48:58
+            总 时 间：0.9940569秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:48:59,413 
+线程ID:[8] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 13:48:59
+            结束时间：2015-04-17 13:48:59
+            总 时 间：2.91E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:48:59,414 
+线程ID:[8] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 13:48:59
+            结束时间：2015-04-17 13:48:59
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:49:50,968 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:49:01
+            结束时间：2015-04-17 13:49:50
+            总 时 间：49.7208779秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:51:38,121 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 13:51:38
+            结束时间：2015-04-17 13:51:38
+            总 时 间：0.0040064秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:51:38,128 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 13:51:38
+            结束时间：2015-04-17 13:51:38
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:51:40,185 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:51:38
+            结束时间：2015-04-17 13:51:40
+            总 时 间：2.0721247秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:51:46,238 
+线程ID:[7] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 13:51:46
+            结束时间：2015-04-17 13:51:46
+            总 时 间：0.0030707秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:51:46,244 
+线程ID:[7] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 13:51:46
+            结束时间：2015-04-17 13:51:46
+            总 时 间：0.001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:51:54,415 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 13:51:52
+            结束时间：2015-04-17 13:51:54
+            总 时 间：2.1121386秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:51:56,201 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 13:51:54
+            结束时间：2015-04-17 13:51:56
+            总 时 间：1.7861022秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:52:00,100 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 13:52:00
+            结束时间：2015-04-17 13:52:00
+            总 时 间：0.0010638秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:52:00,918 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 13:52:00
+            结束时间：2015-04-17 13:52:00
+            总 时 间：0.8180468秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:52:00,992 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 13:52:00
+            结束时间：2015-04-17 13:52:00
+            总 时 间：1.48E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:52:00,993 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 13:52:00
+            结束时间：2015-04-17 13:52:00
+            总 时 间：0.0010001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:53:35,499 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:52:02
+            结束时间：2015-04-17 13:53:33
+            总 时 间：91.8243336秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:53:37,905 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 13:53:37
+            结束时间：2015-04-17 13:53:37
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:53:57,845 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 13:53:57
+            结束时间：2015-04-17 13:53:57
+            总 时 间：0.0010984秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:53:57,853 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 13:53:57
+            结束时间：2015-04-17 13:53:57
+            总 时 间：0.0080005秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:54:02,889 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 13:54:02
+            结束时间：2015-04-17 13:54:02
+            总 时 间：8.69E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:54:02,889 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 13:54:02
+            结束时间：2015-04-17 13:54:02
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:54:15,820 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:54:07
+            结束时间：2015-04-17 13:54:15
+            总 时 间：8.1655265秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:54:15,820 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 13:54:15
+            结束时间：2015-04-17 13:54:15
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:55:11,819 
+线程ID:[33] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:55:11
+            结束时间：2015-04-17 13:55:11
+            总 时 间：0.0020295秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:55:11,819 
+线程ID:[33] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 13:55:11
+            结束时间：2015-04-17 13:55:11
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:55:11,820 
+线程ID:[22] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:55:11
+            结束时间：2015-04-17 13:55:11
+            总 时 间：0.0010296秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:55:11,820 
+线程ID:[22] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 13:55:11
+            结束时间：2015-04-17 13:55:11
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:19,896 
+线程ID:[32] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 13:57:19
+            结束时间：2015-04-17 13:57:19
+            总 时 间：0.0040549秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:19,896 
+线程ID:[43] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 13:57:19
+            结束时间：2015-04-17 13:57:19
+            总 时 间：0.0040549秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:23,882 
+线程ID:[43] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 13:57:19
+            结束时间：2015-04-17 13:57:23
+            总 时 间：3.9802276秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:23,882 
+线程ID:[32] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 13:57:19
+            结束时间：2015-04-17 13:57:23
+            总 时 间：3.9802276秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:24,606 
+线程ID:[32] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 13:57:24
+            结束时间：2015-04-17 13:57:24
+            总 时 间：2.45E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:24,606 
+线程ID:[32] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 13:57:24
+            结束时间：2015-04-17 13:57:24
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:31,349 
+线程ID:[32] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:57:29
+            结束时间：2015-04-17 13:57:31
+            总 时 间：2.0632102秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:31,349 
+线程ID:[32] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 13:57:31
+            结束时间：2015-04-17 13:57:31
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:32,836 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 13:57:32
+            结束时间：2015-04-17 13:57:32
+            总 时 间：0.0030952秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 13:57:32,836 
+线程ID:[35] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 13:57:32
+            结束时间：2015-04-17 13:57:32
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:01,994 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 13:59:59
+            结束时间：2015-04-17 14:00:01
+            总 时 间：2.1161264秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:05,574 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 14:00:02
+            结束时间：2015-04-17 14:00:05
+            总 时 间：3.5732043秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:30,252 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 14:00:30
+            结束时间：2015-04-17 14:00:30
+            总 时 间：0.0030429秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:31,160 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 14:00:30
+            结束时间：2015-04-17 14:00:31
+            总 时 间：0.9080519秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:31,613 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 14:00:31
+            结束时间：2015-04-17 14:00:31
+            总 时 间：0.0010207秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:31,613 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 14:00:31
+            结束时间：2015-04-17 14:00:31
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:59,149 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:00:38
+            结束时间：2015-04-17 14:00:59
+            总 时 间：20.9041956秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:00:59,149 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:00:59
+            结束时间：2015-04-17 14:00:59
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:32,581 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 14:01:32
+            结束时间：2015-04-17 14:01:32
+            总 时 间：7.8E-06秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:32,590 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 14:01:32
+            结束时间：2015-04-17 14:01:32
+            总 时 间：0.0090006秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:33,553 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 14:01:33
+            结束时间：2015-04-17 14:01:33
+            总 时 间：6.34E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:33,553 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 14:01:33
+            结束时间：2015-04-17 14:01:33
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:40,252 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:01:40
+            结束时间：2015-04-17 14:01:40
+            总 时 间：0.0230466秒
+            Form表单数据：columnCodes=OrderId,OrderRemark&columnNames=编号,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:40,252 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:01:40
+            结束时间：2015-04-17 14:01:40
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderRemark&columnNames=编号,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:43,018 
+线程ID:[25] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:01:42
+            结束时间：2015-04-17 14:01:43
+            总 时 间：0.1991048秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:47,278 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:01:47
+            结束时间：2015-04-17 14:01:47
+            总 时 间：0.0010485秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:48,212 
+线程ID:[21] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:01:48
+            结束时间：2015-04-17 14:01:48
+            总 时 间：0.0010019秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:53,813 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:01:53
+            结束时间：2015-04-17 14:01:53
+            总 时 间：0.0050223秒
+            Form表单数据：columnCodes=OrderId,OrderRemark&columnNames=编号,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:53,813 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:01:53
+            结束时间：2015-04-17 14:01:53
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderRemark&columnNames=编号,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:01:54,759 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:01:54
+            结束时间：2015-04-17 14:01:54
+            总 时 间：0.0020764秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:03,534 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:03
+            结束时间：2015-04-17 14:02:03
+            总 时 间：0.0020783秒
+            Form表单数据：columnCodes=OrderId,OrderRemark,OrderNum,OrderMoney&columnNames=编号,备注,数量,金额
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:03,534 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:02:03
+            结束时间：2015-04-17 14:02:03
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderRemark,OrderNum,OrderMoney&columnNames=编号,备注,数量,金额
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:04,540 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:04
+            结束时间：2015-04-17 14:02:04
+            总 时 间：0.0020358秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:07,463 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:07
+            结束时间：2015-04-17 14:02:07
+            总 时 间：0.003003秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:09,029 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:09
+            结束时间：2015-04-17 14:02:09
+            总 时 间：0.0010926秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:09,738 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:09
+            结束时间：2015-04-17 14:02:09
+            总 时 间：0.0020331秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:10,381 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:10
+            结束时间：2015-04-17 14:02:10
+            总 时 间：0.0030699秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:11,618 
+线程ID:[11] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:11
+            结束时间：2015-04-17 14:02:11
+            总 时 间：0.0020406秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:12,036 
+线程ID:[17] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:12
+            结束时间：2015-04-17 14:02:12
+            总 时 间：0.0020646秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:12,398 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:12
+            结束时间：2015-04-17 14:02:12
+            总 时 间：0.0030853秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:13,998 
+线程ID:[21] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:13
+            结束时间：2015-04-17 14:02:13
+            总 时 间：0.0020768秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:14,706 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:14
+            结束时间：2015-04-17 14:02:14
+            总 时 间：0.0010173秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:15,570 
+线程ID:[12] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:15
+            结束时间：2015-04-17 14:02:15
+            总 时 间：0.0010667秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:16,129 
+线程ID:[13] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:16
+            结束时间：2015-04-17 14:02:16
+            总 时 间：0.0010987秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:16,904 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:16
+            结束时间：2015-04-17 14:02:16
+            总 时 间：0.001043秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:17,427 
+线程ID:[21] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:17
+            结束时间：2015-04-17 14:02:17
+            总 时 间：0.0030729秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:23,833 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:23
+            结束时间：2015-04-17 14:02:23
+            总 时 间：0.0030393秒
+            Form表单数据：columnCodes=OrderId,OrderRemark,OrderNum,OrderMoney&columnNames=编号,备注,数量,金额
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:23,833 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:02:23
+            结束时间：2015-04-17 14:02:23
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderRemark,OrderNum,OrderMoney&columnNames=编号,备注,数量,金额
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:27,969 
+线程ID:[18] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:27
+            结束时间：2015-04-17 14:02:27
+            总 时 间：0.0010759秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:35,300 
+线程ID:[21] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:35
+            结束时间：2015-04-17 14:02:35
+            总 时 间：0.0020952秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:37,532 
+线程ID:[17] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:37
+            结束时间：2015-04-17 14:02:37
+            总 时 间：0.0020229秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:39,444 
+线程ID:[20] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:39
+            结束时间：2015-04-17 14:02:39
+            总 时 间：0.0010322秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:40,088 
+线程ID:[17] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:40
+            结束时间：2015-04-17 14:02:40
+            总 时 间：0.001069秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:02:42,626 
+线程ID:[26] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:02:42
+            结束时间：2015-04-17 14:02:42
+            总 时 间：0.0020142秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:04:29,405 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：CustomerController
+            ActionName:Index
+            开始时间：2015-04-17 14:04:21
+            结束时间：2015-04-17 14:04:29
+            总 时 间：7.8715213秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:04:31,606 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：CustomerController
+            ViewName:Index
+            开始时间：2015-04-17 14:04:29
+            结束时间：2015-04-17 14:04:31
+            总 时 间：2.1951256秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:04:58,663 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 14:04:58
+            结束时间：2015-04-17 14:04:58
+            总 时 间：0.0020951秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:04:59,701 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 14:04:58
+            结束时间：2015-04-17 14:04:59
+            总 时 间：1.0380594秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:04:59,872 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 14:04:59
+            结束时间：2015-04-17 14:04:59
+            总 时 间：6.43E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:04:59,873 
+线程ID:[9] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 14:04:59
+            结束时间：2015-04-17 14:04:59
+            总 时 间：0.001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:16,126 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:05:05
+            结束时间：2015-04-17 14:05:16
+            总 时 间：10.7916939秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:16,126 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:05:16
+            结束时间：2015-04-17 14:05:16
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:24,364 
+线程ID:[7] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 14:05:24
+            结束时间：2015-04-17 14:05:24
+            总 时 间：6.51E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:24,366 
+线程ID:[7] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 14:05:24
+            结束时间：2015-04-17 14:05:24
+            总 时 间：0.0010001秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:25,606 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 14:05:25
+            结束时间：2015-04-17 14:05:25
+            总 时 间：3.61E-05秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:25,606 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 14:05:25
+            结束时间：2015-04-17 14:05:25
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:39,118 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:05:28
+            结束时间：2015-04-17 14:05:38
+            总 时 间：9.5405576秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:05:42,916 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:05:40
+            结束时间：2015-04-17 14:05:42
+            总 时 间：1.9511116秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:06:09,328 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:05:45
+            结束时间：2015-04-17 14:06:09
+            总 时 间：23.6914369秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:07:53,549 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 14:07:53
+            结束时间：2015-04-17 14:07:53
+            总 时 间：0.0040978秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:07:53,645 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 14:07:53
+            结束时间：2015-04-17 14:07:53
+            总 时 间：3.5E-06秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:07:55,171 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 14:07:53
+            结束时间：2015-04-17 14:07:55
+            总 时 间：1.6160924秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:07:55,194 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 14:07:53
+            结束时间：2015-04-17 14:07:55
+            总 时 间：1.5490886秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:07:55,460 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 14:07:55
+            结束时间：2015-04-17 14:07:55
+            总 时 间：0.0010073秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:07:55,460 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 14:07:55
+            结束时间：2015-04-17 14:07:55
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:08:00,704 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:07:58
+            结束时间：2015-04-17 14:08:00
+            总 时 间：2.2932072秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:08:00,705 
+线程ID:[37] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:08:00
+            结束时间：2015-04-17 14:08:00
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:08:01,918 
+线程ID:[6] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:08:01
+            结束时间：2015-04-17 14:08:01
+            总 时 间：0.0010767秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:02,664 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:Index
+            开始时间：2015-04-17 14:09:02
+            结束时间：2015-04-17 14:09:02
+            总 时 间：0.0040509秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:04,836 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:Index
+            开始时间：2015-04-17 14:09:02
+            结束时间：2015-04-17 14:09:04
+            总 时 间：2.1661239秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:05,027 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:getColumnList
+            开始时间：2015-04-17 14:09:05
+            结束时间：2015-04-17 14:09:05
+            总 时 间：0.0010863秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:05,027 
+线程ID:[38] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:getColumnList
+            开始时间：2015-04-17 14:09:05
+            结束时间：2015-04-17 14:09:05
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:10,518 
+线程ID:[7] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:09:08
+            结束时间：2015-04-17 14:09:10
+            总 时 间：1.7652003秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:10,518 
+线程ID:[7] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:09:10
+            结束时间：2015-04-17 14:09:10
+            总 时 间：0秒
+            Form表单数据：columnCodes=OrderId,OrderNum,OrderMoney,OrderRemark&columnNames=编号,数量,金额,备注
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:11,574 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            Action执行时间监控：
+            ControllerName：OrderController
+            ActionName:ExportXls
+            开始时间：2015-04-17 14:09:11
+            结束时间：2015-04-17 14:09:11
+            总 时 间：0.0010608秒
+            Form表单数据：
+            URL参数：
+                    
+ 
+
+ 
+记录时间：2015-04-17 14:09:11,574 
+线程ID:[19] 
+日志级别：  INFO  
+错误描述：
+            View视图生成时间监控：
+            ControllerName：OrderController
+            ViewName:ExportXls
+            开始时间：2015-04-17 14:09:11
+            结束时间：2015-04-17 14:09:11
+            总 时 间：0秒
+            Form表单数据：
+            URL参数：
+                    
+ 

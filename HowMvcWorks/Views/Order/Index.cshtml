@@ -5,6 +5,22 @@
 @{
     Layout = "~/Views/Shared/_EasyUILayout.cshtml";
 }
+<script type="text/javascript">
+    $(function () {
+        $('#btn_exportXls').bind('click', function () {
+            var columnNames = $('#columns').combogrid('getText');
+            if (columnNames == "") {
+                alert('请先选择要导出的列!');
+                $('#columns').combobox('showPanel');
+                return;
+            }
+            var columnCodes = $('#columns').combogrid('getValues');
+            export_form.columnCodes.value = columnCodes;
+            export_form.columnNames.value = columnNames;
+            export_form.submit();
+        });
+    });
+</script>
 <h2>我是第二个Order界面！</h2>
 <ul>
     @{
@@ -30,6 +46,14 @@
     </select>
     <a href="#" class="easyui-linkbutton" data-options="iconCls:'icon-help'"
         id="btn_exportXls">导出Excel</a>
+            @Html.ActionLink("daochu", "ExportXls");
+    <div style="display: none">
+		<!--export form-->
+		<form id="export_form" target="export_frame" method="post" action="ExportXls">
+			<input type='hidden' name='columnCodes' /> <input type='hidden' name='columnNames' /> 
+		</form>
+		<iframe name="export_frame"></iframe>
+	</div>
 </ul>
 
 
