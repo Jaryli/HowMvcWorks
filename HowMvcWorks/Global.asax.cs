@@ -9,6 +9,9 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using Autofac;
 using Autofac.Integration.Mvc;
+using Quartz;
+using Quartz.Impl;
+using Quartz.Impl.Triggers;
 namespace HowMvcWorks
 {
     // 注意: 有关启用 IIS6 或 IIS7 经典模式的说明，
@@ -26,6 +29,7 @@ namespace HowMvcWorks
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            Myjobs();
         }
 
         private static void AutofacManager()
@@ -43,6 +47,17 @@ namespace HowMvcWorks
         {
             builder.RegisterType<Models.CustomerService>().As<Models.ICustomer>().InstancePerHttpRequest();
             builder.RegisterType<CRM.Dao.StubOrderItemDalRepository>().As<CRM.IDao.IRepository>().InstancePerHttpRequest();
+        }
+
+        private static void Myjobs()
+        {
+            ISchedulerFactory factory = new StdSchedulerFactory();
+            IScheduler scheduler = factory.GetScheduler();
+            scheduler.Start();
+            IJobDetail jobdetail=new JobDetailImpl("jobdetail",typeof(Models.MyJob));
+            ISimpleTrigger trigger = new SimpleTriggerImpl("mytrigger", null, DateTime.Now, null, SimpleTriggerImpl.RepeatIndefinitely,/*无限重复*/
+                TimeSpan.FromSeconds(10));
+            scheduler.ScheduleJob(jobdetail,trigger);
         }
     }
 }
